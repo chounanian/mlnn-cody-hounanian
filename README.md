@@ -1,5 +1,5 @@
 # mlnn
-Machine Learning and Neural Networks
+ Learning and Neural Networks
 
 #### Course Instructors
 
